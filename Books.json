@@ -3,63 +3,71 @@
         "grade": "10/10",
         "name": "God always travels incognito",
         "author": "Laurent Gounelle",
-        "release date": ""
+        "release date": "2010",
+        "recommend": "yes"
     },
 
     "book-2": {
         "grade": "8.5/10",
         "name": "Gemes people play",
         "author": "Eric Berne",
-        "release date": ""
+        "release date": "1964",
+        "recommend": "yes"
     },
 
     "book-3": {
         "grade": "10/10",
         "name": "Трансерфинг реальности (ступень I-V)",
         "author": "Вадим Зелант",
-        "release date": ""
+        "release date": "2006",
+        "recommend": "yes"
     },
 
     "book-4": {
         "grade": "7.5/10",
         "name": "Основные болезни пчел",
         "author": "Серия Пчелодар",
-        "release date": ""
+        "release date": "2014",
+        "recommend": "not"
     },
 
     "book-5": {
         "grade": "8.5/10",
         "name": "Полный справочник пчеловода",
         "author": "Издательсто - клуб семейного досуга",
-        "release date": ""
+        "release date": "2010",
+        "recommend": "not"
     },
 
     "book-6": {
         "grade": "9/10",
         "name": "The Man Who Wanted to Be Happy",
         "author": "Laurent Gounelle",
-        "release date": ""
+        "release date": "28.6.2012",
+        "recommend": "yes"
     },
 
     "book-7": {
         "grade": "9/10",
         "name": "Homo Deus",
         "author": "Yuval Noah Harari",
-        "release date": ""
+        "release date": "2015",
+        "recommend": "yes"
     },
 
     "book-8": {
         "grade": "9.5/10",
         "name": "Man's Search for Meaning",
         "author": "Viktor Frankl",
-         "release date": ""
+         "release date": "1946",
+         "recommend": "yes"
     },
 
     "book-9": {
         "grade": "8.5/10",
         "name": "Adrenaline",
         "author": "Zlatan Ibrahimovic",
-        "release date": "2.12.2021"
+        "release date": "2.12.2021",
+        "recommend": "not"
     }
-
 }
